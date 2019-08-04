@@ -7,13 +7,13 @@ Documetns:
 
 1-How to creat sidenav:
 
-<div id="sidenav">
+<div id=" sidenav ">
   ...
 </div>
 
 -----------------------------------------
 
-2-How can add "a" tag to this sidenav?:
+2-How can add a tag to this sidenav?:
 
 <div id="sidenav">
   <a href="#" class="navlink">
@@ -22,7 +22,7 @@ Documetns:
  -----------------------------------------
 
   
- 3-How can we add "close button" to this seidenav?:
+ 3-How can we add close button to this seidenav?:
  
  <div id="sidenav">
   <a  id="closebtn">&times;</a>
