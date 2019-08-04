@@ -1,0 +1,30 @@
+#sidenav {
+  width:0;
+  height:100%;
+  background-color:#111;
+  position: fixed;
+  overflow-x: hidden;
+  z-index: 1;
+  top:0;
+  left:0;
+  transition: 0.5s;
+  padding-top:50px;
+}
+
+#sidenav a {
+  text-decoration: none;
+  padding:8px 8px 8px 32px;
+  font-size: 25px;
+  color:#818181;
+  transition: 0.3s;
+  display: block;
+}
+#sidenav a:hover {
+  color:#f1f1f1;
+}
+#sidenav #closebtn {
+  position: absolute;
+  right: 25px;
+  top:0;
+  margin-left:50px;
+}
